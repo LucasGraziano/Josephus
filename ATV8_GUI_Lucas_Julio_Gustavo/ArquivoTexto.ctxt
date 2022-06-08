@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ArquivoTexto
+comment1.params=
+comment1.target=ArquivoTexto()
+comment2.params=cad
+comment2.target=void\ lerArquivo(Cadastro)
+comment3.params=cad
+comment3.target=void\ gravarArquivo(Cadastro)
+numComments=4

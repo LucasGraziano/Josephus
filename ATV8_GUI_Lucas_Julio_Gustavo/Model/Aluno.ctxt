@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Aluno
+comment0.text=\r\n\ Armazena\ dadosdo\ aluno.\r\n\ \r\n\ @author\ Julio\ Arakaki\ \r\n\ @version\ 1.0,\ 22/04/2022\r\n
+comment1.params=nome\ idade\ ra\ curso\ mediaGeral
+comment1.target=Aluno(java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ float)
+comment2.params=
+comment2.target=java.lang.String\ getRa()
+comment3.params=
+comment3.target=java.lang.String\ getCurso()
+comment4.params=
+comment4.target=float\ getMediaGeral()
+comment5.params=
+comment5.target=java.lang.String\ getDados()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

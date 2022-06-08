@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Cadastro
+comment0.text=\r\n\ Cadastro\ de\ alunos\ utilizando\ array.\r\n\ \r\n\ @author\ Julio\ Arakaki\r\n\ @version\ 1.0\ 22/04/2022\r\n
+comment1.params=
+comment1.target=Cadastro()
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Cadastro\r\n\ @param\ qtd\ quantidade\ de\ alunos\ (maximo)\r\n
+comment2.params=aluno
+comment2.target=void\ inserir(Model.Aluno)
+comment2.text=\r\n\ M\u00E9todo\ inserir\ -\ insere\ aluno\ na\ primeira\ posicao\ livre\ (null)\ do\ array\r\n\r\n\ @param\ aluno\ aluno\ a\ ser\ inserido\r\n\ @return\ true\ aluno\ inserido\ com\ sucesso,\ false\ aluno\ nao\ inserido\ (falta\ espaco\ no\ array)\r\n
+comment3.params=ra
+comment3.target=void\ remover(java.lang.String)
+comment3.text=\r\n\ M\u00E9todo\ remover\ -\ remove\ o\ aluno\ do\ cadastro\ a\ partir\ do\ RA\r\n\r\n\ @param\ ra\ String\ -\ RA\ do\ aluno\ a\ ser\ removido\r\n\ @return\ aluno\ removido,\ null\ -\ se\ o\ aluno\ n\u00E3o\ for\ encontrado\r\n\ \r\n
+comment4.params=
+comment4.target=void\ listar()
+comment4.text=\r\n\ M\u00E9todo\ listar\r\n\r\n
+comment5.params=pw
+comment5.target=void\ gravar(java.io.PrintWriter)
+comment5.text=\r\n\ \ \ \ private\ void\ iniciarCadastro(){\r\n\ \ \ \ \ \ \ \ for\ (int\ i\ \=\ 0;\ i\ <\ cadAlunos.length;\ i++)\ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ cadAlunos[i]\ \=\ null;\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ }\r\n
+numComments=6

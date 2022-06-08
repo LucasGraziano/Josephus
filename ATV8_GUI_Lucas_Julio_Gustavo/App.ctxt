@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=App
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ App\ aqui.\r\n\ \ classe\ app\ \u00E9\ o\ console\ do\ sistema,\ nele\ \u00E9\ administrado\ qual\ classe\ vai\ ser\ selecionada\ para\ uso,\ menu\ selecionado,\ e\ as\ instru\u00E7\u00F5es\ de\ inserir,\ remover,\ listar\ e\ sair.\r\n\ @author\ Lucas\ Graziano\ |\ Julio\ Cesar\ |\ Gustavo\ Scacchetti\ \r\n\ @version\ 05/05/2022\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int\ getQtd()
+numComments=3

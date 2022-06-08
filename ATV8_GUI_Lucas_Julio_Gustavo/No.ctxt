@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=No
+comment0.text=\r\n\ No\ da\ lista\ (ou\ c\u00E9lula\ para\ algumas\ pessoas)\r\n\ @author\ Lucas\ Graziano\ |\ Julio\ Cesar\ |\ Gustavo\ Scacchetti\r\n\ @version\ 01/06/2022\r\n
+comment1.params=aluno
+comment1.target=No(Model.Aluno)
+comment1.text=\r\n\ Constroi\ um\ no\ da\ lista\ ligada\r\n\ @param\ Object\ conteudo\ do\ no\r\n
+comment2.params=aluno
+comment2.target=void\ setConteudo(Model.Aluno)
+comment2.text=\r\n\ M\u00E9todo\ setConteudo\r\n\r\n\ @param\ conteudo\ conteudo\ do\ no\r\n
+comment3.params=proximo
+comment3.target=void\ setProximo(No)
+comment3.text=\r\n\ M\u00E9todo\ setProximo\r\n\r\n\ @param\ proximo\ referencia\ para\ o\ proximo\ no\r\n
+comment4.params=
+comment4.target=Model.Aluno\ getConteudo()
+comment4.text=\r\n\ M\u00E9todo\ getConteudo\r\n\r\n\ @return\ Object\ conteudo\ do\ no\r\n
+comment5.params=
+comment5.target=No\ getProximo()
+comment5.text=\r\n\ M\u00E9todo\ getProximo\r\n\r\n\ @return\ NO\ referencia\ do\ proximo\ no\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ M\u00E9todo\ toString\r\n\r\n\ @return\ String\ conteudo\ do\ no\ como\ string\r\n
+numComments=7
