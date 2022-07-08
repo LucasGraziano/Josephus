@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=App
+comment0.text=\r\n\ App\ inicia\ o\ "Jogo"\ \r\n\ \r\n\ @author\ Lucas\ Graziano\ |\ Julio\ Cesar\ |\ Gustavo\ Scacchetti\r\n\ @version\ 10/06/2022\ -\ 4\:35\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ main\ -\ aqui\ que\ eh\ iniciado\ o\ programa\r\n
+numComments=2

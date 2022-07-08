@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=JosephusGUI
+comment0.text=\r\n\ Entrada\ em\ GUI.\r\n\ \r\n\ @author\ Lucas\ Graziano\ |\ Julio\ Cesar\ |\ Gustavo\ Scacchetti\r\n\ @version\ 01/06/2022\r\n
+comment1.params=titulo\ comp\ alt
+comment1.target=JosephusGUI(java.lang.String,\ int,\ int)
+comment1.text=\r\n\ JosephusGUI\ Constructor\r\n\r\n\ @param\ titulo\ -\ TITULO\ DO\ PROGRAMA\r\n\ @param\ comp\ -\ Comprimento\ da\ janela\r\n\ @param\ alt\ -\ Altura\ da\ janela\r\n
+comment2.params=titulo\ comp\ alt
+comment2.target=void\ inicializar(java.lang.String,\ int,\ int)
+comment2.text=\r\n\ Faz\ a\ inicializa\u00C3\u00A7ao\ da\ janela\ principal\ e\ chama\ as\ outras\ funcoes\ para\ colocar\ os\ outros\ layouts\r\n\ @param\ titulo\ -\ titulo\ da\ janela\r\n\ @param\ comp\ -\ comprimento\ da\ janela\r\n\ @param\ alt\ -\ altura\ da\ janela\r\n
+comment3.params=cJos
+comment3.target=void\ inserirVisor(javax.swing.JPanel)
+comment3.text=\r\n\ \ inserirVisor\r\n\ \ Serve\ para\ inserir\ as\ caixas\ de\ texto\ de\ quantidade\ de\ pessoas\ e\ o\ intervalo\r\n\ @param\ cJos\ -\ painel\ principal\r\n
+comment4.params=cJos
+comment4.target=void\ inserirBotoes(java.awt.Container)
+comment4.text=\r\n\ Method\ inserirBotoes\ adiciona\ os\ botoes\ no\ painel\ de\ botoes\ e\ insere\ o\ painel\ de\ botoes\ no\ painel\ principal\r\n\r\n\ @param\ cCalc\ Container\ painel\ principal\ onde\ sera\ inserido\ o\ painel\ de\ botoes\r\n
+comment5.params=ae
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.text=\r\n\ Metodo\ actionPerformed\ -\ local\ onde\ sera\ instruido\ qual\ sera\ a\ acao\ do\ botao\r\n\r\n\ @param\ ae\ comando\ do\ bot\u00C3\u00A3o\r\n
+comment6.params=
+comment6.target=void\ iniciarAnimacao()
+comment6.text=\r\n\ Metodo\ iniciarAnimacao\ -\r\n\ comeca\ a\ animacao\r\n
+comment7.params=
+comment7.target=void\ finalizarAnimacao()
+comment7.text=\r\n\ Metodo\ finalizarAnimacao\ -\ \r\n\ finaliza\ a\ animacao\r\n
+numComments=8

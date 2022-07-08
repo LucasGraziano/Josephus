@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Pessoa
+comment0.text=\r\n\ Essa\ classe\ cria\ as\ pessoas\ que\ ir\u00C3\u00A3o\ jogar\r\n\r\n\ @author\ Lucas\ Graziano\ |\ Julio\ Cesar\ |\ Gustavo\ Scacchetti\r\n\ @version\ 10/06/2022\ -\ 4\:35\r\n
+comment1.params=nP\ pVivo\ label
+comment1.target=Pessoa(int,\ boolean,\ GUI.PainelRedondo)
+comment1.text=\r\n\ Pessoa\ Constructor\ -\ aqui\ \u00E9\ a\ construcao\ do\ personagem\ vivo,\ ser\u00E1\ aqui\ que\ vai\ colocar\ o\ status\ como\ vivo\r\n\ e\ pegar\ todas\ as\ informacoes\ da\ pessoa\r\n\r\n\ @param\ nP\ Numero(posicao)\ da\ pessoa\ \r\n\ @param\ pVivo\ Statuso\ da\ pessoa\r\n\ @param\ label\ Layout\ de\ como\ vai\ printar\ a\ pessoa\r\n
+comment2.params=
+comment2.target=int\ getNum()
+comment2.text=\r\n\ Method\ getNum\ -\ coleta\ o\ numero(posicao)\ da\ pessoa\r\n\r\n\ @return\ Retorna\ o\ numero\ de\ pessoas\r\n
+comment3.params=
+comment3.target=boolean\ getStatus()
+comment3.text=\r\n\ Method\ getStatus\ -\ coleta\ o\ status\ da\ pessoa\ (vivo\ ou\ morto)\r\n\r\n\ @return\ retorna\ o\ status\ do\ construtor\ pessoa\r\n
+comment4.params=
+comment4.target=GUI.PainelRedondo\ getLabel()
+comment4.text=\r\n\ Method\ getLabel\ -\ pega\ a\ label\ da\ pessoa\r\n\r\n\ @return\ retorna\ a\ label(interface)\r\n
+comment5.params=
+comment5.target=void\ changeStatus()
+comment5.text=\r\n\ Method\ changeStatus\ -\ quando\ a\ pessoa\ morrer,\ ela\ ir\u00E1\ entrar\ aqui\ e\ mudar\ o\ status\r\n\ \r\n\ Quando\ morto,\ o\ Status\ muda\r\n
+numComments=6
