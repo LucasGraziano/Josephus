@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=IPersistencia
-comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ interface\ IPersistencia\ aqui.\r\n\ \r\n\ @author\ (seu\ nome\ aqui)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ data\ aqui)\r\n
-comment1.params=cad
-comment1.target=void\ gravarArquivo(Cadastro)
-comment2.params=cad
-comment2.target=void\ lerArquivo(Cadastro)
-numComments=3
